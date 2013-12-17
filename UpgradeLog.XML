@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SQLiteRepository2008">
+</Property><Property Name="Solution File" Value="C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008.sln">
+</Property><Property Name="User Options File" Value="C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008.suo">
+</Property><Property Name="Date" Value="Tuesday, November 19, 2013">
+</Property><Property Name="Time" Value="10:11 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SQLiteRepository2008.sln" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SQLiteRepository2008.suo" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008.suo">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\SQLiteRepository2008.csproj" Description="Project file successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\SQLiteRepository2008.csproj">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\DataLayer.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\DataLayer.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Entiteti\Projekat.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Entiteti\Projekat.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Entiteti\Radnik.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Entiteti\Radnik.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Entiteti\Sef.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Entiteti\Sef.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Entiteti\Sektor.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Entiteti\Sektor.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Form1.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Form1.Designer.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Mapiranja\ProjekatMapiranje.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Mapiranja\ProjekatMapiranje.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Mapiranja\RadnikMapiranje.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Mapiranja\RadnikMapiranje.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Mapiranja\SefMapiranje.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Mapiranja\SefMapiranje.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Mapiranja\SektorMapiranje.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Mapiranja\SektorMapiranje.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Program.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Program.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\App.config" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\App.config">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Properties\Settings.settings" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Form1.resx" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\Properties\Resources.resx" Description="File successfully backed up as C:\Users\student\Desktop\SQLiteRepository2008\Backup\SQLiteRepository2008\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\SQLiteRepository2008.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SQLiteRepository2008" Source="SQLiteRepository2008\SQLiteRepository2008.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SQLiteRepository2008.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SQLiteRepository2008.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SQLiteRepository2008" Source="SQLiteRepository2008\SQLiteRepository2008.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

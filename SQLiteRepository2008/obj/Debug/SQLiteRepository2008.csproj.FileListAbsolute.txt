@@ -1,0 +1,51 @@
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe.config
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.pdb
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\System.Data.SQLite.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\System.Data.SQLite.xml
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\ResolveAssemblyReference.cache
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Form1.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Properties.Resources.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.csproj.GenerateResource.Cache
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\FluentNHibernate\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.pdb
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe.config
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.exe
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.pdb
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.pdb
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\System.Data.SQLite.xml
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Form1.resources
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Properties.Resources.resources
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\ResGen.read.1.tlog
+C:\Users\student\Desktop\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\ResGen.write.1.tlog
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe.config
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.pdb
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Form1.resources
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Properties.Resources.resources
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.csproj.GenerateResource.Cache
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.exe
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.pdb
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008 - Copy\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe.config
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008 - Copy\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008 - Copy\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.pdb
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Form1.resources
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Properties.Resources.resources
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.csproj.GenerateResource.Cache
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.exe
+D:\College\IV godina\VII semestar\Napredne baze podataka\I lab\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.pdb
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe.config
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.exe
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.pdb
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.pdb
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.csprojResolveAssemblyReference.cache
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Form1.resources
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.FormAdresa.resources
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.Properties.Resources.resources
+D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.csproj.GenerateResource.Cache
+E:\FAX\IV godina\Baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008 - Copy\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe.config
+E:\FAX\IV godina\Baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.exe
+E:\FAX\IV godina\Baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.pdb
