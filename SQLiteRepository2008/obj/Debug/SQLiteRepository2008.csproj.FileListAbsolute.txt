@@ -49,3 +49,6 @@ D:\Fax\IV\Napredne baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository200
 E:\FAX\IV godina\Baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008 - Copy\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe.config
 E:\FAX\IV godina\Baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.exe
 E:\FAX\IV godina\Baze podataka\SQLiteRepository2008 - Copy\SQLiteRepository2008 - Copy\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.pdb
+C:\Users\ntasic\Documents\GitHub\napredneBaze1\SQLiteRepository2008\bin\Debug\SQLiteRepository2008.exe.config
+C:\Users\ntasic\Documents\GitHub\napredneBaze1\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.exe
+C:\Users\ntasic\Documents\GitHub\napredneBaze1\SQLiteRepository2008\obj\Debug\SQLiteRepository2008.pdb
